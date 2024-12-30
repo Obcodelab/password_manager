@@ -101,7 +101,7 @@ cargo run
 
 - **Encryption**:
 
-  - Encrypt credentials using a library like aes for enhanced security.
+  - Encrypt credentials using a library like `aes` for enhanced security.
 
 - **Authentication**:
 
@@ -114,3 +114,7 @@ cargo run
 - **User-Friendly Interface**:
 
   - Add colored outputs and error messages for a better user experience.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions or improvements.
